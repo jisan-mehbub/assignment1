@@ -45,6 +45,7 @@
     /* margin-top: 208px; */
     margin: 240px 268px 0px 268px;
     margin-bottom: 37px;
+    text-align: center;
     
 }
 nav{
@@ -71,6 +72,7 @@ nav{
     color: #252432;
     font-weight: bold;
     margin-bottom: 23px;
+    text-align: center;
 }
 .banner-description{
     font-size: 24px;
